@@ -57,7 +57,7 @@ I focus on practical product development, efficient problem solving, clean code,
 <p align="center">
   <a href="https://codeforces.com/profile/tanbir78">
     <img
-      src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES_USERNAME"
+      src="https://codeforces-readme-stats.vercel.app/api/card?username=tanbir78"
       alt="Codeforces Stats"
     />
   </a>
@@ -66,7 +66,7 @@ I focus on practical product development, efficient problem solving, clean code,
 <p align="center">
   <a href="https://leetcode.com/u/tanbir78_/">
     <img
-      src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap"
+      src="https://leetcard.jacoblin.cool/tanbir78_?theme=dark&font=Baloo&ext=heatmap"
       alt="LeetCode Stats"
     />
   </a>
