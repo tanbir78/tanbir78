@@ -112,8 +112,8 @@ Alongside web development, I regularly practice **Data Structures and Algorithms
 <div align="center">
 
 <table>
-<tr>
   
+<tr>
 <!-- 1 no project -->
 <td width="50%">
 <h3 align="center">📦 Quick Parcel Delivery</h3>
@@ -159,7 +159,9 @@ A full-stack parcel delivery application for managing parcel bookings and delive
 <a href="https://github.com/tanbir78/quick-parcel-delivery-server">Backend</a>
 </p>
 </td>
-
+</tr>
+  
+<tr>
 <!-- 3 no project -->
 <td width="50%">
 <h3 align="center">📦 Quick Parcel Delivery</h3>
