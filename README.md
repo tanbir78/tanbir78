@@ -1,3 +1,12 @@
+
+<p align="center">
+  <img
+    src="github-banner.png"
+    alt="Tanbir Hasan Jewel - Full Stack Developer"
+    width="100%"
+  />
+</p>
+
 ## 👨‍💻 About Me
 
 **Full-Stack Web Developer | React, JavaScript, Node.js, Express.js, MongoDB | Problem Solving & Software Engineering**
