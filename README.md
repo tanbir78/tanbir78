@@ -21,7 +21,6 @@
   alt="Profile Views"
 /><br/>
 
-<img src="https://komarev.com/ghpvc/?username=tanbir78&label=PROFILE+VIEWS&color=00ff88&style=for-the-badge&labelColor=0d1117" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/tanbir78?label=FOLLOWERS&style=for-the-badge&color=00ccff&labelColor=0d1117" />
 &nbsp;
