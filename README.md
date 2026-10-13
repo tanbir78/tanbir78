@@ -52,28 +52,27 @@ I focus on practical product development, efficient problem solving, clean code,
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+
 ## 📊 Competitive Programming
 
-### Codeforces Stats
+### Codeforces
 
 <p align="center">
   <a href="https://codeforces.com/profile/tanbir78">
     <img
       src="https://codeforces-readme-stats.vercel.app/api/card?username=tanbir78"
-      alt="Codeforces Statistics"
-      width="600"
+      alt="Codeforces Stats"
+      width="500"
     />
   </a>
 </p>
 
-### Codeforces Activity Heatmap
-
 <p align="center">
   <a href="https://codeforces.com/profile/tanbir78">
     <img
-      src="https://cp-card-4ik8dr0rg-rajrishi-06s-projects.vercel.app/card/cf/tanbir78/heatmap"
+      src="https://cp-card.vercel.app/card/cf/tanbir78/heatmap"
       alt="Codeforces Activity Heatmap"
-      width="700"
+      width="650"
     />
   </a>
 </p>
@@ -84,8 +83,8 @@ I focus on practical product development, efficient problem solving, clean code,
   <a href="https://leetcode.com/u/tanbir78_/">
     <img
       src="https://leetcard.jacoblin.cool/tanbir78_?theme=dark&font=Baloo&ext=heatmap"
-      alt="LeetCode Statistics and Heatmap"
-      width="600"
+      alt="LeetCode Stats"
+      width="500"
     />
   </a>
 </p>
