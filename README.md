@@ -35,111 +35,163 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:0d1117&height=2&section=header" width="100%" alt="Divider" />
 </div>
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-**Full-Stack Web Developer | React, JavaScript, Node.js, Express.js, MongoDB | Problem Solving & Software Engineering**
+I'm **Tanbir Hasan Jewel**, a Full Stack Web Developer from Bangladesh 🇧🇩, passionate about building modern, responsive, and scalable web applications. I work with **React, Next.js, TypeScript, Node.js, Express.js, and MongoDB**, while also exploring tools and technologies that help me build better software.
 
-- **Business & Product Development:** Turning ideas and requirements into practical, user-friendly web applications.
-- **Full-Stack Development:** Building responsive frontend interfaces and RESTful backend APIs.
-- **Scalable Applications:** Writing clean, maintainable code with a focus on performance and reliability.
-- **Problem Solving:** Applying Data Structures & Algorithms (DSA) to solve programming challenges efficiently.
-- **Software Design:** Using Object-Oriented Programming (OOP) and core software engineering principles to build maintainable applications.
-- **Engineering Focus:** Clean code, debugging, API design, database management, and continuous learning.
+Alongside web development, I regularly practice **Data Structures and Algorithms using C/C++** and solve competitive programming problems. I enjoy turning ideas into practical projects, improving my problem-solving skills, and writing clean, maintainable code.
 
-## 🧠 Core Tech
+- 🎓 **Background:** B.Sc. in Computer Science and Engineering
+- 💻 **Focus:** Full Stack Web Development
+- 🧠 **Problem Solving:** Data Structures & Algorithms in C++
+- 🚀 **Goal:** Build impactful projects and become a stronger software engineer
+- 🌱 **Currently Improving:** Full Stack Development, Competitive Programming & Interview Preparation
+- 💬 **Ask me about:** React, JavaScript, Node.js, Express.js, MongoDB, C++, and DSA
 
-I focus on practical product development, efficient problem solving, clean code, and building reliable web applications.
+<br/>
 
-- **Core Stack:** JavaScript, React, Node.js, Express.js, MongoDB
-- **Frontend:** React, HTML5, CSS3, Tailwind CSS, DaisyUI
-- **Backend & Database:** Node.js, Express.js, REST APIs, MongoDB
-- **Authentication:** Firebase Authentication
-- **Computer Science Fundamentals:** Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Systems, Computer Networks
+## 🚀 What I'm Up To
 
-## 🛠️ Skills & Technologies
+```yaml
+🔭 Building:      Full-stack web applications
+🌱 Learning:      Modern React, Next.js & TypeScript
+🧠 Practicing:    Data Structures & Algorithms in C++
+💻 Developing:    REST APIs with Node.js & Express.js
+🗄️ Working with:  MongoDB, PostgreSQL & Prisma
+🎨 Exploring:     Tailwind CSS, shadcn/ui & Framer Motion
+🎯 Focusing on:   Competitive Programming & Interview Preparation
+💬 Ask me about: React · JavaScript · Node.js · MongoDB · C++ · DSA
+```
 
-### Core Technologies
+<br/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+## ⚡ Tech Arsenal
 
-### Frontend
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-1AD1A5?style=for-the-badge&logo=daisyui&logoColor=white)
+**Frontend & UI**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vscode&theme=dark" alt="Frontend Skills" />
 
-### Backend & Database
+<br/><br/>
 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+**Backend, Database & Authentication**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgresql,mysql,redis,firebase&theme=dark" alt="Backend Skills" />
 
-### Authentication & Security
+<br/><br/>
 
-![Firebase Authentication](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+**Programming Languages & Core CS**
+<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,java&theme=dark" alt="Programming Languages" />
 
-### Tools & Workflow
+<br/><br/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+**Tools & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,linux,vercel&theme=dark" alt="Tools and DevOps" />
 
+<br/><br/>
 
-## 📊 Competitive Programming
-### Codeforces
-<p align="center">
-  <a href="https://codeforces.com/profile/tanbir78">
-    <img
-      src="https://codeforces-readme-stats.vercel.app/api/card?username=tanbir78"
-      alt="Codeforces Stats"
-      width="500"
-    />
-  </a>
-</p>
-<!-- <p align="center">
-  <a href="https://codeforces.com/profile/tanbir78">
-    <img
-      src="https://cp-card.vercel.app/card/cf/tanbir78/heatmap"
-      alt="Codeforces Activity Heatmap"
-      width="650"
-    />
-  </a>
-</p> -->
+**Libraries & Technologies**
 
-### LeetCode
-<p align="center">
-  <a href="https://leetcode.com/u/tanbir78_/">
-    <img
-      src="https://leetcard.jacoblin.cool/tanbir78_?theme=dark&font=Baloo&ext=heatmap"
-      alt="LeetCode Stats"
-      width="500"
-    />
-  </a>
-</p>
+`Express.js` · `Prisma` · `Mongoose` · `NextAuth.js` · `Better Auth` · `Firebase Authentication` · `JWT` · `Zod` · `shadcn/ui` · `Framer Motion`
 
-## 🚀 Featured Project
-### Quick Parcel Delivery
+</div>
 
-A parcel delivery web application built with React, Tailwind CSS, Firebase Authentication, Node.js, Express.js, and MongoDB.
+<br/>
 
-- Quick Parcel Delivery
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:0d1117&height=2" width="100%" alt="Divider"/>
+</div>
 
-## 📊 GitHub Statistics
+<br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanbir78&show_icons=true&theme=tokyonight&hide_border=true)
+## 🌐 Connect With Me
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanbir78&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
 
-## 🤝 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanbir78)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thjewel800@gmail.com)
 
-- **Email:** your-email@example.com
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/)
+</div>
+
+<br/>
+
+## 🧩 Competitive Programming
+
+<div align="center">
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tanbir78)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tanbir78_/)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:0d1117&height=2" width="100%" alt="Divider"/>
+</div>
+
+<br/>
+
+## 📊 GitHub Stats & Streak
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tanbir78&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanbir78&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=tanbir78&theme=tokyonight&hide_border=true&border_radius=12" width="680" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+## 🗓️ Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanbir78&bg_color=0d1117&color=00ff88&line=00ccff&point=ff6efd&area=true&hide_border=true&custom_title=Tanbir's%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanbir78/tanbir78/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanbir78/tanbir78/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/tanbir78/tanbir78/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:0d1117&height=2" width="100%" alt="Divider"/>
+</div>
+
+<br/>
+
+## 💬 Dev Quote of the Day
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="680" alt="Developer Quote"/>
+</div>
+
+<br/>
 
 ---
 
-*Building projects, solving problems, and growing as a software engineer.*
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00ccff,100:ff6efd&height=150&section=footer&text=Thanks%20for%20Visiting!%20%F0%9F%9A%80&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%" alt="Thanks for Visiting"/>
+
+<br/>
+
+*⭐ If you find my projects useful, consider giving them a star!*
+
+</div>
