@@ -1,7 +1,7 @@
 
 <p align="center">
   <img
-    src="github-banner.png"
+    src="assets/github-banner.png"
     alt="Tanbir Hasan Jewel - Full Stack Developer"
     width="100%"
   />
