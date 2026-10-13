@@ -15,17 +15,14 @@
 <!-- ═══════════════════════════════════════════ -->
 
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=00FF88&background=00000000&center=true&vCenter=true&width=750&height=45&lines=Full+Stack+Web+Developer;Competitive+Programmer+%7C+Problem+Solver;React+%E2%80%A2+JavaScript+%E2%80%A2+Node.js+%E2%80%A2+MongoDB" alt="Typing SVG" />
+  <br/>
 
-<img
-  src="https://komarev.com/ghpvc/?username=tanbir78&label=PROFILE%20VIEWS&color=00ff88&style=for-the-badge&labelColor=0d1117"
-  alt="Profile Views"
-/><br/>
-
+<img src="https://komarev.com/ghpvc/?username=tanbir78&label=PROFILE+VIEWS&color=00ff88&style=for-the-badge&labelColor=0d1117" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/tanbir78?label=FOLLOWERS&style=for-the-badge&color=00ccff&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00ff88?style=for-the-badge&labelColor=0d1117" />
-<br/><br/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00ff88?style=for-the-badge&labelColor=0d1117" /><br/<br/>
 
 <a href="mailto:thjewel800@gmail.com">
   <img src="https://img.shields.io/badge/✉️_EMAIL-Contact_Me-00ff88?style=for-the-badge&labelColor=0d1117" alt="Email" />
@@ -33,8 +30,7 @@
 &nbsp;
 <a href="https://github.com/tanbir78">
   <img src="https://img.shields.io/badge/GITHUB-View_Profile-00ccff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub Profile" />
-</a>
-<br/><br/>
+</a><br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:0d1117&height=2&section=header" width="100%" alt="Divider" />
 </div>
