@@ -58,16 +58,29 @@ I focus on practical product development, efficient problem solving, clean code,
   <a href="https://codeforces.com/profile/tanbir78">
     <img
       src="https://codeforces-readme-stats.vercel.app/api/card?username=tanbir78"
-      alt="Codeforces Stats"
+      alt="Codeforces Statistics"
+      width="100%"
     />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/tanbir78">
+    <img
+      src="https://codeforces-readme-stats.vercel.app/api/heatmap?username=tanbir78"
+      alt="Codeforces Contribution Heatmap"
+      width="100%"
+    />
+  </a>
+</p>
+
 ### LeetCode
 <p align="center">
   <a href="https://leetcode.com/u/tanbir78_/">
     <img
       src="https://leetcard.jacoblin.cool/tanbir78_?theme=dark&font=Baloo&ext=heatmap"
-      alt="LeetCode Stats"
+      alt="LeetCode Statistics and Heatmap"
+      width="100%"
     />
   </a>
 </p>
