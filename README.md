@@ -54,9 +54,7 @@ I focus on practical product development, efficient problem solving, clean code,
 
 
 ## 📊 Competitive Programming
-
 ### Codeforces
-
 <p align="center">
   <a href="https://codeforces.com/profile/tanbir78">
     <img
@@ -66,7 +64,6 @@ I focus on practical product development, efficient problem solving, clean code,
     />
   </a>
 </p>
-
 <p align="center">
   <a href="https://codeforces.com/profile/tanbir78">
     <img
@@ -78,7 +75,6 @@ I focus on practical product development, efficient problem solving, clean code,
 </p>
 
 ### LeetCode
-
 <p align="center">
   <a href="https://leetcode.com/u/tanbir78_/">
     <img
