@@ -129,39 +129,37 @@ A full-stack parcel delivery application for managing parcel bookings and delive
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
 </p>
 <p align="center">
+<a href="YOUR_PROJECT_2_LIVE_URL">Live Demo</a> •
 <a href="https://github.com/tanbir78/quick-parcel-delivery-client">Frontend</a> •
 <a href="https://github.com/tanbir78/quick-parcel-delivery-server">Backend</a>
 </p>
 </td>
 
 <td width="50%">
-<h3 align="center">🌐 Project Two</h3>
+<h3 align="center">📦 Quick Parcel Delivery</h3>
 <div align="center">
-<a href="YOUR_PROJECT_2_REPO_URL">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tanbir78&repo=YOUR_PROJECT_2_REPO_NAME&theme=tokyonight&hide_border=true" alt="Project Two"/>
+<a href="https://github.com/tanbir78/quick-parcel-delivery-client">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=tanbir78&repo=quick-parcel-delivery-client&theme=tokyonight&hide_border=true" alt="Quick Parcel Delivery"/>
 </a>
 </div>
 <p align="center">
-Write a short description of your second project here.
+A full-stack parcel delivery application for managing parcel bookings and delivery operations.
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
 </p>
 <p align="center">
 <a href="YOUR_PROJECT_2_LIVE_URL">Live Demo</a> •
-<a href="YOUR_PROJECT_2_REPO_URL">GitHub</a>
+<a href="https://github.com/tanbir78/quick-parcel-delivery-client">Frontend</a> •
+<a href="https://github.com/tanbir78/quick-parcel-delivery-server">Backend</a>
 </p>
 </td>
 </tr>
 </table>
 
 </div>
-
----
-
-### 💡 More Projects Coming Soon!
-
 
 
 ## 🌐 Connect With Me
