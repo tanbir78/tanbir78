@@ -52,15 +52,27 @@ I focus on practical product development, efficient problem solving, clean code,
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 🧩 Problem Solving
-
-I practice competitive programming to strengthen my algorithmic thinking and problem-solving skills.
-
-- **Codeforces:** [View My Profile](https://codeforces.com/profile/tanbir78)
-- **LeetCode:** [View My Profile](https://leetcode.com/)
+## 📊 Competitive Programming
+### Codeforces
+<p align="center">
+  <a href="https://codeforces.com/profile/tanbir78">
+    <img
+      src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES_USERNAME"
+      alt="Codeforces Stats"
+    />
+  </a>
+</p>
+### LeetCode
+<p align="center">
+  <a href="https://leetcode.com/u/tanbir78_/">
+    <img
+      src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap"
+      alt="LeetCode Stats"
+    />
+  </a>
+</p>
 
 ## 🚀 Featured Project
-
 ### Quick Parcel Delivery
 
 A parcel delivery web application built with React, Tailwind CSS, Firebase Authentication, Node.js, Express.js, and MongoDB.
