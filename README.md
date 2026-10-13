@@ -56,7 +56,7 @@ I focus on practical product development, efficient problem solving, clean code,
 
 I practice competitive programming to strengthen my algorithmic thinking and problem-solving skills.
 
-- **Codeforces:** [View My Profile](https://codeforces.com/)
+- **Codeforces:** [View My Profile](https://codeforces.com/profile/tanbir78)
 - **LeetCode:** [View My Profile](https://leetcode.com/)
 
 ## 🚀 Featured Project
