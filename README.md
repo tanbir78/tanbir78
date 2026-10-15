@@ -1,18 +1,13 @@
-<!-- ═══════════════════════════════════════════ -->
-<!--              BANNER SECTION                 -->
-<!-- ═══════════════════════════════════════════ -->
+<!--
 
-<p align="center">
+
+ <p align="center">
   <img
     src="assets/github-banner.png"
     alt="Tanbir Hasan Jewel - Full Stack Developer"
     width="100%"
   />
-</p>
-
-<!-- ═══════════════════════════════════════════ -->
-<!--          NAME & DESIGNATION                 -->
-<!-- ═══════════════════════════════════════════ -->
+</p> 
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=00FF88&background=00000000&center=true&vCenter=true&width=750&height=45&lines=Full+Stack+Web+Developer;Competitive+Programmer+%7C+Problem+Solver;React+%E2%80%A2+JavaScript+%E2%80%A2+Node.js+%E2%80%A2+MongoDB" alt="Typing SVG" />
@@ -114,7 +109,7 @@ Alongside web development, I regularly practice **Data Structures and Algorithms
 <table>
   
 <tr>
-<!-- 1 no project -->
+
 <td width="50%">
 <h3 align="center">📦 Quick Parcel Delivery</h3>
 <div align="center">
@@ -137,7 +132,7 @@ A full-stack parcel delivery application for managing parcel bookings and delive
 </p>
 </td>
 
-<!-- 2 no project -->
+
 <td width="50%">
 <h3 align="center">📦 Quick Parcel Delivery</h3>
 <div align="center">
@@ -162,7 +157,6 @@ A full-stack parcel delivery application for managing parcel bookings and delive
 </tr>
   
 <tr>
-<!-- 3 no project -->
 <td width="50%">
 <h3 align="center">📦 Quick Parcel Delivery</h3>
 <div align="center">
@@ -185,7 +179,6 @@ A full-stack parcel delivery application for managing parcel bookings and delive
 </p>
 </td>
 
-<!-- 4 no project -->
 <td width="50%">
 <h3 align="center">📦 Quick Parcel Delivery</h3>
 <div align="center">
