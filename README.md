@@ -289,7 +289,6 @@ A full-stack parcel delivery application for managing parcel bookings and delive
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00ccff,100:ff6efd&height=150&section=footer&text=Thanks%20for%20Visiting!%20%F0%9F%9A%80&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%" alt="Thanks for Visiting"/>
 
 <br/>
-
-*⭐ If you find my projects useful, consider giving them a star!*
-
+*⭐ If you find my projects useful, consider giving them a star!
 </div>
+
