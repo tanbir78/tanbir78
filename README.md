@@ -197,10 +197,17 @@ A full-stack parcel delivery application for managing parcel bookings and delive
 ## Connect With Me
 
 <div align="center">
+
 [![GitHub](https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanbir78)
-</div>
-<div align="center">
+
+<br/>
+
 [![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thjewel800@gmail.com)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_LINK)
+
 </div>
 
 <br/>
@@ -210,7 +217,9 @@ A full-stack parcel delivery application for managing parcel bookings and delive
 <div align="center">
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tanbir78)
+
 <br/>
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tanbir78_/)
 
 </div>
