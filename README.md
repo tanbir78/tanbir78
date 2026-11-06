@@ -49,7 +49,7 @@ Alongside web development, I regularly practice **Data Structures and Algorithms
 
 <br/>
 
-## ⚡ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -194,22 +194,22 @@ A full-stack parcel delivery application for managing parcel bookings and delive
 </div>
 
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
-
 [![GitHub](https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanbir78)
+<br/>
 [![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thjewel800@gmail.com)
-
 </div>
 
 <br/>
 
-## 🧩 Competitive Programming
+## Competitive Programming
 
 <div align="center">
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tanbir78)
+<br/>
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tanbir78_/)
 
 </div>
@@ -222,62 +222,11 @@ A full-stack parcel delivery application for managing parcel bookings and delive
 
 <br/>
 
-## 📊 GitHub Stats & Streak
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tanbir78&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanbir78&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=tanbir78&theme=tokyonight&hide_border=true&border_radius=12" width="680" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
-
-## 🗓️ Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanbir78&bg_color=0d1117&color=00ff88&line=00ccff&point=ff6efd&area=true&hide_border=true&custom_title=Tanbir's%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanbir78/tanbir78/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanbir78/tanbir78/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/tanbir78/tanbir78/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:0d1117&height=2" width="100%" alt="Divider"/>
-</div>
-
-<br/>
-
-## 💬 Dev Quote of the Day
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="680" alt="Developer Quote"/>
-</div>
-
-<br/>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00ccff,100:ff6efd&height=150&section=footer&text=Thanks%20for%20Visiting!%20%F0%9F%9A%80&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%" alt="Thanks for Visiting"/>
 
 <br/>
-*⭐ If you find my projects useful, consider giving them a star!
+⭐ If you find my projects useful, consider giving them a star!
 </div>
 
