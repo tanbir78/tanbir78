@@ -19,7 +19,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:0d1117&height=2&section=header" width="100%" alt="Divider" />
 </div>
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm **Tanbir Hasan Jewel**, a Full Stack Web Developer from Bangladesh 🇧🇩, passionate about building modern, responsive, and scalable web applications. I work with **React, Next.js, TypeScript, Node.js, Express.js, and MongoDB**, while also exploring tools and technologies that help me build better software.
 
@@ -34,7 +34,7 @@ Alongside web development, I regularly practice **Data Structures and Algorithms
 
 <br/>
 
-## 🚀 What I'm Up To
+## What I'm Up To
 
 ```yaml
 🔭 Building:      Full-stack web applications
@@ -55,25 +55,25 @@ Alongside web development, I regularly practice **Data Structures and Algorithms
 
 **Frontend & UI**
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vscode&theme=dark" alt="Frontend Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vscode&theme=dark" alt="Frontend Skills" />
 
 <br/><br/>
 
 **Backend, Database & Authentication**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgresql,mysql,redis,firebase&theme=dark" alt="Backend Skills" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgresql,mysql,firebase&theme=dark" alt="Backend Skills" />
 
 <br/><br/>
 
 **Programming Languages & Core CS**
 <br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,py,java&theme=dark" alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=c,cpp,py,java,js&theme=dark" alt="Programming Languages" />
 
 <br/><br/>
 
 **Tools & DevOps**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,linux,vercel&theme=dark" alt="Tools and DevOps" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,linux,vercel&theme=dark" alt="Tools and DevOps" />
 
 <br/><br/>
 
@@ -91,7 +91,7 @@ Alongside web development, I regularly practice **Data Structures and Algorithms
 
 <br/>
 
-## 🚀 My Projects
+## My Projects
 
 <div align="center">
 
