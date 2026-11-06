@@ -198,7 +198,8 @@ A full-stack parcel delivery application for managing parcel bookings and delive
 
 <div align="center">
 [![GitHub](https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanbir78)
-<br/>
+</div>
+<div align="center">
 [![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thjewel800@gmail.com)
 </div>
 
