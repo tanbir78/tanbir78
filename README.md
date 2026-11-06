@@ -201,19 +201,16 @@ A full-stack parcel delivery application for managing parcel bookings and delive
 <a href="https://github.com/tanbir78">
   <img src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<br/><br/>
+<br/>
 
 <a href="mailto:thjewel800@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<br/><br/>
+<br/>
 
 <a href="https://your-actual-portfolio-url.com">
   <img src="https://img.shields.io/badge/Portfolio-Visit_Website-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-
 </div>
 
 <br/>
