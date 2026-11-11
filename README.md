@@ -11,7 +11,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=00FF88&background=00000000&center=true&vCenter=true&width=750&height=45&lines=Full+Stack+Web+Developer;Competitive+Programmer+%7C+Problem+Solver;React+%E2%80%A2+JavaScript+%E2%80%A2+Node.js+%E2%80%A2+MongoDB" alt="Typing SVG" />
 <br/>
 
-<a href="https://your-portfolio-link.com" target="_blank">
+<a href="https://tanbir78-portfolio1.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit_My_Website-00ff88?style=for-the-badge&labelColor=0d1117" alt="Portfolio" />
 </a>
 <br/><br/>
@@ -102,8 +102,8 @@ Alongside web development, I regularly practice **Data Structures and Algorithms
 <td width="50%">
 <h3 align="center">📦 Quick Parcel Delivery</h3>
 <div align="center">
-<a href="https://github.com/tanbir78/quick-parcel-delivery-client">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tanbir78&repo=quick-parcel-delivery-client&theme=tokyonight&hide_border=true" alt="Quick Parcel Delivery"/>
+<a href="https://quick-parcel-delivery.web.app">Live Demo</a>
+<img src="assets/parcel-delivery.png" alt="Quick Parcel Delivery"/>
 </a>
 </div>
 <p align="center">
@@ -115,7 +115,7 @@ A full-stack parcel delivery application for managing parcel bookings and delive
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
 </p>
 <p align="center">
-<a href="YOUR_PROJECT_2_LIVE_URL">Live Demo</a> •
+<a href="https://quick-parcel-delivery.web.app">Live Demo</a> •
 <a href="https://github.com/tanbir78/quick-parcel-delivery-client">Frontend</a> •
 <a href="https://github.com/tanbir78/quick-parcel-delivery-server">Backend</a>
 </p>
@@ -198,7 +198,7 @@ A full-stack parcel delivery application for managing parcel bookings and delive
 
 <div align="center">
 
-<a href="https://github.com/tanbir78">
+<a href="https://tanbir78-portfolio1.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <br/>
