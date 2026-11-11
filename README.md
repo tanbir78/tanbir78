@@ -102,7 +102,7 @@ Alongside web development, I regularly practice **Data Structures and Algorithms
 <td width="50%">
 <h3 align="center">📦 Quick Parcel Delivery</h3>
 <div align="center">
-<a href="https://quick-parcel-delivery.web.app">Live Demo</a>
+<a href="https://quick-parcel-delivery.web.app">
 <img src="assets/parcel-delivery.png" alt="Quick Parcel Delivery"/>
 </a>
 </div>
@@ -198,7 +198,7 @@ A full-stack parcel delivery application for managing parcel bookings and delive
 
 <div align="center">
 
-<a href="https://tanbir78-portfolio1.vercel.app" target="_blank">
+<a href="https://github.com/tanbir78" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <br/>
@@ -208,7 +208,7 @@ A full-stack parcel delivery application for managing parcel bookings and delive
 </a>
 <br/>
 
-<a href="https://your-actual-portfolio-url.com">
+<a href="https://tanbir78-portfolio1.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visit_Website-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 </div>
